@@ -8,7 +8,7 @@ To setup the development environment please **follow the instructions below:**
 
 1. [Fork the repository](https://github.com/strapi/strapi) to your own GitHub account.
 2. Clone it to your computer `git clone git@github.com:strapi/strapi.git`. (or your fork)
-3. Run `cd strapi && npm run setup`
+3. Run `cd strapi && npm install && npm run setup`
 
 You can run `npm run setup:build` to build the plugins' admin (the setup time will be longer)
 
